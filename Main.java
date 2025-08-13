@@ -1,4 +1,4 @@
-public class main { // main is file name
+public class Main { // main is file name
   public static void main(String[] args) {
     System.out.println("hello world");
     // single line comment : by double slash
@@ -13,4 +13,5 @@ public class main { // main is file name
     // FOR output in new line use println in java
 
   }
+
 }
