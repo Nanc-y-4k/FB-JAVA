@@ -10,8 +10,11 @@ public class Main { // main is file name
     System.out.println("nancy jaisawal");
     System.out.println("2ndyear");
     System.out.println("2415001011");
-    // FOR output in new line use println in java
 
+    int age = 20;
+    String name = "John";
+    System.out.println("Name: " + name);
+    System.out.println("Age: " + age);
+    
   }
-
 }
